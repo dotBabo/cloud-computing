@@ -1,11 +1,12 @@
+
 body {
-    background-color: #fff0f0;
+    background-color: #ffff00;
     margin-top: 50px;
     font-family: 'Arial';
 }
 
 .item {
-    background-color: yellow;
+    background-color: green;
     padding: 15px;
     margin-bottom: 15px;
     border: transparent;
